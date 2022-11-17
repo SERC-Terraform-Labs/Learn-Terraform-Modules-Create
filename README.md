@@ -6,7 +6,8 @@ This repo is a companion repo to the [Build a Module tutorial](https://developer
 
 Add changes to version control as you go through the steps in the tutorial. This will make it easier to see which configuration settings have changed.
 
-> **Warning:** Not sure if all the AWS or Azure resources provisioned in this tutorial are covered by the free tier (NAT gateway definitely isn't). There may be some small charges. If you leave resources provisioned and don't `terraform destroy` at the end, there definitely will be charges.
+> **Warning:**
+> Not sure if all the AWS or Azure resources provisioned in this tutorial are covered by the free tier (NAT gateway definitely isn't). There may be some small charges. If you leave resources provisioned and don't `terraform destroy` at the end, there definitely will be charges.
 
 <details><summary>AWS CLI Credentials</summary>
 
